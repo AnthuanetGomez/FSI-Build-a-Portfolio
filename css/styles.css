@@ -1,7 +1,25 @@
 .Size-20 {
-    font-size:20px;
+    font-size:45px;
     text-align:center;
+}
+.Size-18 {
+    text-align: center;
 }
 body {
     background-color: azure;
+}
+.Second-part {
+    background-color: #c2e0f3;
+
+}
+img {
+    background-position: center;
+}
+
+.Project-part {
+    background-color:#c2e0f3 ;
+}
+
+.Last-Part {
+    background-size:cover;
 }
